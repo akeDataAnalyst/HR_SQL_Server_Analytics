@@ -22,7 +22,7 @@ These project focuses on using employee data to promote a healthy lifestyle thro
 - SQL queries are developed to join the tables and analyze the data.
 - The main table is the absenteeism table, which is joined with the compensation and reasons tables.
 
-  ![]()
+  ![](create_join_tabel.PNG)
 
 ### Step 3. Identify the Healthiest Employees
 - Healthy employees are defined as non-smokers and non-drinkers, with a BMI under 25 and lower than average absenteeism
