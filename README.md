@@ -1,6 +1,6 @@
 # HR_SQL_Server_Analytics
 
-These project focuses on using employee data to promote a healthy lifestyle through a bonus program and compensation analysis.
+This project focuses on using employee data to promote a healthy lifestyle through a bonus program and compensation analysis.
 - HR department requests a list of healthy individuals with low absenteeism       for a $1,000 bonus program and a calculation of wage increases for non-smokers
 
 ## Steps of Data Analysis
