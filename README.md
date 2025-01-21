@@ -27,7 +27,7 @@ These project focuses on using employee data to promote a healthy lifestyle thro
 ### Step 3. Identify the Healthiest Employees
 - Healthy employees are defined as non-smokers and non-drinkers, with a BMI under 25 and lower than average absenteeism
 
-  ![]()
+  ![](find_the_healthiest_employees.PNG)
 
 ### Step 4. Compensation Calculation for Non-Smokers
 - The total number of non-smokers is counted, and the budget for wage increases is calculated based on the number of non-smokers and total hours worked
