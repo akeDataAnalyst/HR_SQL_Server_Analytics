@@ -32,7 +32,9 @@ These project focuses on using employee data to promote a healthy lifestyle thro
 ### Step 4. Compensation Calculation for Non-Smokers
 - The total number of non-smokers is counted, and the budget for wage increases is calculated based on the number of non-smokers and total hours worked
 
-  ``
+  `select count(*) as nonsmokers
+    from Absenteeism_at_work
+    where Social_smoker = 0`
   
 - The increase per hour for non-smokers is determined, leading to an annual compensation
 
