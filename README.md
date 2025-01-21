@@ -10,6 +10,7 @@ These project focuses on using employee data to promote a healthy lifestyle thro
   ![](new_database_work.PNG)
 
 - A new database named "work" is created, and data is imported from flat CSV files into tables.
+- right click on a new data base and click on import flat file instruction and bro
 
   ![](import_flat_file_csv.PNG)
 
