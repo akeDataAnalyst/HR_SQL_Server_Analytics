@@ -11,6 +11,8 @@ These project focuses on using employee data to promote a healthy lifestyle thro
 
 - A new database named "work" is created, and data is imported from flat CSV files into tables.
 
+  ![](import_flat_file_csv.PNG)
+
 #### Table Structure
 - The first table includes columns such as reasons for absence, month of absence, age, workload, and absenteeism.
 - A second table is created to define the reasons for absence, and a third table for employee salary.
