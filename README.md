@@ -40,6 +40,6 @@ These project focuses on using employee data to promote a healthy lifestyle thro
 
 ### Step 5. Query Optimization
 The SQL queries are optimized to select only the necessary columns instead of using wildcards, which helps avoid duplicate columns in the final dataset 
-  ![]()
+  ![](optimize_query.PNG)
 
 
