@@ -7,6 +7,8 @@ These project focuses on using employee data to promote a healthy lifestyle thro
 ### Step 1. Database Creation and Data Import
 - The project begins with the creation of a database in Microsoft SQL Server Studio.
 
+  ![](new_database_work.PNG)
+
 - A new database named "work" is created, and data is imported from flat CSV files into tables.
 
 #### Table Structure
